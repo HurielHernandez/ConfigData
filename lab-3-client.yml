@@ -1,2 +1,4 @@
-lucky-word: new-irish
-Rabbit's foot: Serendipity
+lucky-word: client profile
+
+server:
+  port: 8001
