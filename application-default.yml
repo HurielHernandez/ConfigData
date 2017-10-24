@@ -2,3 +2,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: localhost:8081/eureka/
+
+server:
+  port:
+    8080
