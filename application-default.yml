@@ -6,3 +6,5 @@ eureka:
 server:
   port:
     8080
+    
+lucky-word: test
