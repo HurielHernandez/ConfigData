@@ -8,7 +8,7 @@
   <artifactId>spring-cloud-starter-config</artifactId>
 </dependency>
 ```
-#### Add Actuator to clien project.  Allows client project to refresh and restart configurations during run time.
+#### Add Actuator to client project.  Allows client project to refresh and restart configurations during run time.
 ```
 <dependency>
   <groupId>org.springframework.boot</groupId>
