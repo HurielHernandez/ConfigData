@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+zuul:
+  prefix: /api
+  
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://18.221.160.51:8082/eureka
+
