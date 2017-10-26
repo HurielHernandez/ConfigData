@@ -7,5 +7,5 @@ zuul:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://18.221.160.51:8082/eureka
+      defaultZone: http://18.220.92.71:8082/eureka
 
