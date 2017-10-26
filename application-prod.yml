@@ -7,4 +7,4 @@ server:
   port:
     8082
     
-lucky-word: Dev - word
+lucky-word: Now in production
