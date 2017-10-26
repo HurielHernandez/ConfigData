@@ -8,4 +8,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://18.220.92.71:8082/eureka
+  instance:
+     preferIpAddress: true
+
 
