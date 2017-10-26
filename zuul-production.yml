@@ -11,4 +11,9 @@ eureka:
   instance:
      preferIpAddress: true
 
-
+spring:
+  cloud:
+    inetutils:
+      ignoredInterfaces:
+        - docker0
+        - veth.*
