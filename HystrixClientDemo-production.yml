@@ -4,7 +4,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://18.220.92.71:8082
+      defaultZone: http://18.220.92.71:8082/eureka
 
 spring:
   cloud:
