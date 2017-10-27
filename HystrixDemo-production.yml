@@ -13,4 +13,4 @@ spring:
         - docker0
         - veth.*
         
-word: friend
+word: world
